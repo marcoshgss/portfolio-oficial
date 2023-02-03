@@ -258,6 +258,11 @@ header {
     background-color: #f5f5f5;
 }
 
+.add-futuramente {
+    height: 2rem;
+    color: white;
+}
+
 .sessao-header {
     display: flex;
     align-items: center;
