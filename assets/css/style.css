@@ -378,7 +378,9 @@ header {
     border-radius: .5rem;
     box-shadow: 0 .1rem .8rem rgba(0, 0, 0, .4)
 }
-
+.btn {
+    cursor: pointer;
+}
 .card:hover .card-info {
     bottom: 2rem;
     opacity: 1;
