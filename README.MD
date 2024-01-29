@@ -1,3 +1,17 @@
+![2024-01-2820-43-25-ezgif com-video-to-gif-converter](https://github.com/marcoshgss/portfolio-oficial/assets/99811575/1a9a4733-4772-4de6-b79b-bb543f09aa25)
+
+# Meu Portfolio 
+
+Esse é meu portfolio.
+
+Ele foi feito na época que eu tentei concorrar a uma das vagas de *Front-end* da empresa Turing Tecnologia. Essa é uma empresa junior da minha faculdade. E um dos requisitos que era para conseguir entrar na empresa, era ter um portfolio bem desenvolvido. E assim foi feito, consegui entrar para o time *Front-end* desta empresa. E acredito que consegui ajudar nos projetos que implementamos na época.
+
+Logo abaixo, coloquei os passos que realizei na época para concorrer essa vaga. Falei um pouco sobre minha pessoa, comentei a estrutura do projeto e por último, falei como poderia rodar o projeto em localhost.
+
+Hoje no presente momento, **esse não é o meu portifolio oficial**, estou desenvolvendo outro mais moderno e usando novas tecnologias que venho estudando no momento.
+
+## Passo a passo
+
 - Quero entrar para o time de frontend.
 
 - Oi, meu nome é Marcos Henrique, tenho 21 anos. Sou um rapaz simples, um pouco tímido, sou esforçado para aprender novas coisas (tecnologias). 
